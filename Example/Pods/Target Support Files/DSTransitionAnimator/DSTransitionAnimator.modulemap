@@ -1,0 +1,6 @@
+framework module DSTransitionAnimator {
+  umbrella header "DSTransitionAnimator-umbrella.h"
+
+  export *
+  module * { export * }
+}

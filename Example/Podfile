@@ -1,0 +1,12 @@
+use_frameworks!
+platform:ios, '9.3'
+target 'DSTransitionAnimator_Example' do
+  pod 'DSTransitionAnimator', :path => '../'
+
+  target 'DSTransitionAnimator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
+

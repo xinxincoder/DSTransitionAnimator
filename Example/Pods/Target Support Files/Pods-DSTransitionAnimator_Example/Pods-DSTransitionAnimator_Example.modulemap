@@ -1,0 +1,6 @@
+framework module Pods_DSTransitionAnimator_Example {
+  umbrella header "Pods-DSTransitionAnimator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

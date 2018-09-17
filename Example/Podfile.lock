@@ -1,0 +1,16 @@
+PODS:
+  - DSTransitionAnimator (1.0.0)
+
+DEPENDENCIES:
+  - DSTransitionAnimator (from `../`)
+
+EXTERNAL SOURCES:
+  DSTransitionAnimator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSTransitionAnimator: 3fc3d5713e51e3d9e4354f0915646a19002fa93d
+
+PODFILE CHECKSUM: d001097c383866bdf0904c7a1d09630bff070a40
+
+COCOAPODS: 1.5.3
